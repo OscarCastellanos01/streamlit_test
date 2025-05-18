@@ -1,7 +1,7 @@
 import numpy as np
-from flask import Flask, request, jsonify, render_template, url_for
+# from flask import Flask, request, jsonify, render_template, url_for
 import pickle
-from sklearn import svm
+# from sklearn import svm
 import streamlit as st
 
 
